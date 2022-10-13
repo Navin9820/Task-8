@@ -1,0 +1,374 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.container{
+	width: 1170px;
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+
+.col-lg-1{
+	width: 8.33%;
+	padding: 0 15px;
+}
+
+.col-lg-2{
+	width: 16.66%;
+	padding: 0 15px;
+}
+
+.col-lg-3{
+	width: 25%;
+	padding: 0 15px;
+}
+
+.col-lg-4{
+	width: 33.33%;
+	padding: 0 15px;
+}
+
+.col-lg-5{
+	width: 41.66%;
+	padding: 0 15px;
+}
+
+.col-lg-6{
+	width: 50%;
+	padding: 0 15px;
+}
+
+.col-lg-7{
+	width: 58.33%;
+	padding: 0 15px;
+}
+
+.col-lg-8{
+	width: 66.66%;
+	padding: 0 15px;
+}
+
+.col-lg-9{
+	width: 75%;
+	padding: 0 15px;
+}
+
+.col-lg-10{
+	width: 83.33%;
+	padding: 0 15px;
+}
+
+.col-lg-11{
+	width: 91.66%;
+	padding: 0 15px;
+}
+
+.col-lg-12{
+	width: 100%;
+	padding: 0 15px;
+}
+
+.logo-bar{
+	background: lavender;
+	height: 50px;
+}
+
+.header-menu{
+	background: red;
+	height: 100px;
+	padding-top:20px;
+}
+
+.menu-section{
+   background: lavender ;
+   height:250px ;
+   padding-top:25px ;
+}
+
+.menu-information{
+	background: red;
+	height: 180px;
+}
+
+.nav-content{
+	background: red;
+	height: 250px;
+	padding-top: 25px;
+}
+
+.nav-information{
+	background: olive;
+	height: 180px;
+}
+
+.list-content{
+	background: yellow;
+	height: 350px;
+	padding-top: 25px;
+}
+
+.value{
+	background: red;
+	height: 100px;
+	margin-bottom: 20px;
+}
+
+.value-list{
+	background: red;
+	height: 180px;
+}
+
+.nav-list-content{
+	background: red;
+	height: 150px;
+	padding-top: 25px;
+}
+
+.nav-list{
+	background: lavender;
+	height: 70px;
+}
+
+.menu-content{
+	background: gold;
+	height: 400px;
+	padding-top: 25px;
+}
+
+.menu1-information{
+	background: red;
+	height: 65px;
+	margin-bottom: 10px;
+}
+
+.menu-passage{
+	background: red;
+	height: 280px;
+}
+
+.menu-list{
+	background: red;
+	height: 80px;
+	margin-bottom: 20px;
+}
+
+.information-content{
+	background: orange;
+	height: 220px;
+	padding-top: 25px;
+}
+
+.information{
+	background: yellowgreen;
+	height: 180px;
+}
+
+.user-content{
+	background: lavender;
+	height: 400px;
+	padding-top: 25px;
+}
+
+.user-information{
+	background: yellow;
+	height: 75px;
+	margin-bottom: 10px;
+}
+
+.user-image{
+	background: yellow;
+	height: 280px;
+}
+
+.user-list{
+	background: yellow;
+	height: 75px;
+	margin-bottom: 20px;
+}
+
+.provider-content{
+	background: olive;
+	height: 450px;
+	padding-top: 10px;
+}
+
+.provider-information{
+	background: powderblue;
+	height: 60px;
+	margin-bottom: 10px;
+}
+
+.provider-list{
+	background: powderblue;
+	height: 170px;
+	margin-bottom: 20px;
+}
+
+.price-content{
+	background: black;
+	height: 430px;
+	padding-top: 10px;
+}
+.price-information{
+	background: red;
+	height: 60px;
+	margin-bottom: 10px;
+}
+.price-list{
+	background: red;
+	height: 320px;
+}
+.queries-content{
+	background: blueviolet;
+	height: 280px;
+	padding-top: 10px;
+}
+.queries-information{
+	background: paleturquoise;
+	height: 50px;
+	margin-bottom: 20px;
+}
+.queries{
+	background: paleturquoise;
+	height: 150px;
+}
+.portfolio-content{
+	background: yellow;
+	height: 700px;
+	padding-top: 5px;
+}
+.portfolio-information{
+	background: red;
+	height: 60px;
+	margin-bottom: 10px;
+}
+.portfolio-list{
+	background: red;
+	height: 200px;
+	margin-bottom: 10px;
+}
+.back-content{
+	background: pink;
+	height: 330px;
+	padding-top: 10px;
+}
+.back-information{
+	background: white;
+	height: 50px;
+	margin-bottom: 10px;
+}
+.back-list{
+	background: white;
+	height: 200px;
+	margin-bottom: 10px;
+}
+.tech-content{
+	background: forestgreen;
+	height: 320px;
+	padding-top: 10px;
+}
+.tech-information{
+	background: powderblue;
+	height: 60px;
+	margin-bottom: 20px;
+}
+.tech-list{
+	background: powderblue;
+	height: 200px;
+	margin-bottom: 20px;
+}
+.name-list-content{
+	background: rosybrown;
+	height: 150px;
+	padding-top: 10px;
+}
+.name-list-information{
+	background: blueviolet;
+	height: 50px;
+	margin-bottom: 10px;
+}
+.name-list{
+	background: blueviolet;
+	height: 50px;
+}
+.new-content{
+	background: black;
+	height: 300px;
+	padding-top: 15px;
+}
+.new-information{
+	background: yellow;
+	height: 60px;
+	margin-bottom: 10px;
+}
+.new-list{
+	background: yellow;
+	height: 180px;
+	margin-bottom: 10px;
+}
+.person-content{
+	background: lavender;
+	height: 300px;
+	padding-top: 15px;
+}
+.person{
+	background: powderblue;
+	height: 50px;
+	margin-bottom: 15px;
+}
+.person-list{
+	background: powderblue;
+	height: 80px;
+	margin-bottom: 10px;
+}
+.person-form{
+	background: powderblue;
+	height: 150px;
+}
+.box-letter-content{
+	background: red;
+	height: 180px;
+	padding-top: 15px;
+}
+.box-letter-information{
+	background: papayawhip;
+	height: 50px;
+	margin-bottom: 20px;
+}
+.box-letter{
+	background: papayawhip;
+	height: 50px;
+}
+.tab-content{
+	background: white;
+	height: 200px;
+	padding-top: 20px;
+}
+.tab{
+	background: hotpink;
+	height: 150px;
+}
+.tab-list{
+	background: hotpink;
+	height: 150px;
+}
+.header-content{
+	background: red;
+	height: 150px;
+	padding-top: 20px;
+}
+.header{
+	background: powderblue;
+	height: 100px;
+}
